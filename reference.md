@@ -6,3 +6,5 @@ AEMELIA
 
 And strike you home without a messenger.
 
+Without addition or diminishing,
+

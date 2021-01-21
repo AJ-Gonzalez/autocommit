@@ -1,4 +1,4 @@
-#!/usr/bin/python
+#!/usr/bin/python3
 from os import system as cmd
 from random import randrange
 add='git add .'
