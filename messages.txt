@@ -1,0 +1,7 @@
+Fixed Misc Bugs
+Added To Documentation
+fixed readme
+fixed typos
+Reviewed documentation
+Expanded documentation
+created new config files
