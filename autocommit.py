@@ -10,7 +10,7 @@ push='git push -u origin main'
 with open('reference.txt') as ref:
     lsR=[line for line in ref]
 with open('reference.md','a') as docs:
-    print(lsR[randrange(0,len(lsR))].strip(),file=docs)
+    print(lsR[randrange(0,len(lsR))],file=docs)
 cmd(add)
 cmd(commit)
 cmd(push)
