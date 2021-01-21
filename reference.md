@@ -4,3 +4,5 @@ The sailors sought for safety by our boat,
 And the great care of goods at random left
 AEMELIA
 
+And strike you home without a messenger.
+
