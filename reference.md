@@ -28,3 +28,5 @@ If aught possess thee from me, it is dross,
 
 OF EPHESUS
 
+There, take it; and much thanks for my good cheer.
+
