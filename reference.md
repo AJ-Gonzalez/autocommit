@@ -24,3 +24,5 @@ And will not lightly trust the messenger
 
 It is a branch and parcel of mine oath,
 
+If aught possess thee from me, it is dross,
+
