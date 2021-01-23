@@ -2,3 +2,6 @@
 [main fc60241] Expanded documentation
  3 files changed, 5 insertions(+), 5 deletions(-)
 Branch 'main' set up to track remote branch 'main' from 'origin'.
+[main 886cc60] fixed typos
+ 2 files changed, 5 insertions(+)
+Branch 'main' set up to track remote branch 'main' from 'origin'.
