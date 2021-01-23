@@ -5,3 +5,6 @@ Branch 'main' set up to track remote branch 'main' from 'origin'.
 [main 886cc60] fixed typos
  2 files changed, 5 insertions(+)
 Branch 'main' set up to track remote branch 'main' from 'origin'.
+[main ebca3ae] Fixed Misc Bugs
+ 2 files changed, 5 insertions(+)
+Branch 'main' set up to track remote branch 'main' from 'origin'.
