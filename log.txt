@@ -29,3 +29,6 @@ Branch 'main' set up to track remote branch 'main' from 'origin'.
 [main 156f203] Fixed Misc Bugs
  2 files changed, 5 insertions(+)
 Branch 'main' set up to track remote branch 'main' from 'origin'.
+[main 0830907] fixed typos
+ 2 files changed, 5 insertions(+)
+Branch 'main' set up to track remote branch 'main' from 'origin'.

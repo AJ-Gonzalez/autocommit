@@ -48,3 +48,5 @@ OF SYRACUSE
 
 DROMIO OF EPHESUS
 
+Nor send him forth that we may bear him hence.
+
