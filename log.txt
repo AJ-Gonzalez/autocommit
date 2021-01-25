@@ -23,3 +23,6 @@ Branch 'main' set up to track remote branch 'main' from 'origin'.
 [main 3285ed8] Added To Documentation
  2 files changed, 5 insertions(+)
 Branch 'main' set up to track remote branch 'main' from 'origin'.
+[main d71bfce] fixed readme
+ 2 files changed, 5 insertions(+)
+Branch 'main' set up to track remote branch 'main' from 'origin'.
