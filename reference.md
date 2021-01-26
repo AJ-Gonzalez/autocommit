@@ -56,3 +56,5 @@ Sir, I commend you to your own content.
 
 Vicious, ungentle, foolish, blunt, unkind;
 
+Among my wife and her confederates,
+
