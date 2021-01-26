@@ -54,3 +54,5 @@ Sir, I commend you to your own content.
 
 
 
+Vicious, ungentle, foolish, blunt, unkind;
+
